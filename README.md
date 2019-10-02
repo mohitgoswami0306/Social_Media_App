@@ -2,7 +2,7 @@
 
 A simple social media application with users, posts, likes and comments - developed using React, Node, Express and MongoDB. 
 
-![Social Media App](/client/assets/images/'home.png' "Social Media App")
+![Social Media App](client/assets/images/home.png?raw=true "Social Media App")
 
 ### [Live Demo]("")
 
