@@ -4,6 +4,16 @@ A simple social media application with users, posts, likes and comments - develo
 
 ![Social Media App](client/assets/images/home.png?raw=true "Social Media App")
 
+
+#### Profile
+![Profile](client/assets/images/profile.png?raw=true "Profile")
+
+#### Comments
+![Comments](client/assets/images/comment.png?raw=true "Comment")
+
+#### Followers
+![Followers](client/assets/images/followers.png?raw=true "Followers")
+
 ### [Live Demo]("")
 
 #### What you need to run this code
