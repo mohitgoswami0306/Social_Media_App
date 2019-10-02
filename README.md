@@ -2,9 +2,9 @@
 
 A simple social media application with users, posts, likes and comments - developed using React, Node, Express and MongoDB. 
 
-![Social Media App]('__dirname\client\assets\images\home.png' "MERN Social")
+![Social Media App]('__dirname/client/assets/images/home.png' "Social Media App")
 
-### [Live Demo](http://social.mernbook.com/ "MERN Social")
+### [Live Demo]("")
 
 #### What you need to run this code
 1. Node 
